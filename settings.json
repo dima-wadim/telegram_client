@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.env.windows": {
+        "API_ID": "your_api_id",
+        "API_HASH": "your_api_hash"
+    },
+    "terminal.integrated.env.linux": {
+        "API_ID": "your_api_id",
+        "API_HASH": "your_api_hash"
+    },
+    "terminal.integrated.env.osx": {
+        "API_ID": "your_api_id",
+        "API_HASH": "your_api_hash"
+    }
+}

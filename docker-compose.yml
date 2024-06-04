@@ -1,0 +1,9 @@
+version: '3'
+services:
+  telegram_client:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      API_ID: "your_api_id"
+      API_HASH: "your_api_hash"
